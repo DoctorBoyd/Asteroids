@@ -1,1 +1,1 @@
-This file is for educational exploration only
+This is for educational exploration only
